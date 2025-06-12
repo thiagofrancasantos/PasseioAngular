@@ -1,9 +1,24 @@
 {
-    "categorias": [
-        {
-            "id": 1,
-            "nome": "Restaurantes",
-            "descricao": "Lugares para alimentação"
-        }
-    ]
+  "categorias": [
+    {
+      "id": "1",
+      "nome": "Restaurantes",
+      "descricao": "Lugares para alimentação"
+    },
+    {
+      "id": 2,
+      "nome": "thiago",
+      "descricao": "lugares para faer compras e passear"
+    },
+    {
+      "id": "8bde",
+      "nome": "dffwfwefwe",
+      "descricao": "fwrfweffwef"
+    },
+    {
+      "id": "dfc1",
+      "nome": "qwdqdqwqwdd",
+      "descricao": "dqwdqwddqwdd"
+    }
+  ]
 }

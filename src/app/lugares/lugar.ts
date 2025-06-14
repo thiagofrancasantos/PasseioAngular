@@ -1,7 +1,7 @@
 export class Lugar {
     nome?: string;
-    categotia?: string;
+    categoria?: string;
     localizacao?: string;
-    utlFoto?: string;
+    urlFoto?: string;
     avaliacao?: number;
 }

@@ -1,0 +1,53 @@
+{
+  "categorias": [
+    {
+      "id": "1",
+      "nome": "Restaurantes",
+      "descricao": "Lugares para alimentação"
+    },
+    {
+      "id": "480d",
+      "nome": "Praias",
+      "descricao": "Lugar para tomar um sol e se divertir."
+    },
+    {
+      "id": "619f",
+      "nome": "Parques",
+      "descricao": "Lugar para passear e se exercitar."
+    }
+  ],
+  "lugares": [
+    {
+      "id": "834b",
+      "nome": "Restaurante do ze",
+      "categoria": "Restaurantes",
+      "localizacao": "Manaus",
+      "urlFoto": "https://tse1.mm.bing.net/th?id=OIP.-kKBg5Ya0D3SrogxgiWtfQHaEK&pid=Api&P=0&h=180",
+      "avaliacao": "4"
+    },
+    {
+      "id": "877b",
+      "nome": "Pastelota",
+      "categoria": "Restaurantes",
+      "localizacao": "Manaus",
+      "urlFoto": "https://tse1.mm.bing.net/th?id=OIP.MoTI_t3vHrcNM0WbMl1QHwHaHa&pid=Api&P=0&h=180",
+      "avaliacao": "5"
+    },
+    {
+      "id": "6cfd",
+      "nome": "Parque do Mindu",
+      "categoria": "Parques",
+      "localizacao": "Manaus",
+      "urlFoto": "https://tse4.mm.bing.net/th?id=OIP.2XFkp4fps4qYzYHM9lqV8wHaE6&pid=Api&P=0&h=180",
+      "avaliacao": "3"
+    },
+    {
+      "id": "733f",
+      "nome": "Praia Ponta Negra",
+      "categoria": "Praias",
+      "localizacao": "Manaus",
+      "urlFoto": "https://tse2.mm.bing.net/th?id=OIP.RoVZ5LhmblUnv5TwVA8CwwHaEK&pid=Api&P=0&h=180",
+      "avaliacao": "4"
+    }
+  ]
+}
